@@ -1,0 +1,2 @@
+rootProject.name='StartActivityForResultDemo'
+include ':app'
